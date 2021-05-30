@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Calculator/static/css/main.93918534.chunk.css",
+    "main.js": "/React-Calculator/static/js/main.c79cd1f3.chunk.js",
+    "main.js.map": "/React-Calculator/static/js/main.c79cd1f3.chunk.js.map",
+    "runtime-main.js": "/React-Calculator/static/js/runtime-main.288157d5.js",
+    "runtime-main.js.map": "/React-Calculator/static/js/runtime-main.288157d5.js.map",
+    "static/js/2.fe3ceee3.chunk.js": "/React-Calculator/static/js/2.fe3ceee3.chunk.js",
+    "static/js/2.fe3ceee3.chunk.js.map": "/React-Calculator/static/js/2.fe3ceee3.chunk.js.map",
+    "index.html": "/React-Calculator/index.html",
+    "static/css/main.93918534.chunk.css.map": "/React-Calculator/static/css/main.93918534.chunk.css.map",
+    "static/js/2.fe3ceee3.chunk.js.LICENSE.txt": "/React-Calculator/static/js/2.fe3ceee3.chunk.js.LICENSE.txt",
+    "static/media/clear.47b0bcd9.mp3": "/React-Calculator/static/media/clear.47b0bcd9.mp3",
+    "static/media/equals.9c1ee9ca.mp3": "/React-Calculator/static/media/equals.9c1ee9ca.mp3",
+    "static/media/nums.df81d001.mp3": "/React-Calculator/static/media/nums.df81d001.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.288157d5.js",
+    "static/js/2.fe3ceee3.chunk.js",
+    "static/css/main.93918534.chunk.css",
+    "static/js/main.c79cd1f3.chunk.js"
+  ]
+}
